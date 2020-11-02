@@ -1,0 +1,9 @@
+.wrapper_card {
+  width: 30%;
+  border: 1px solid #000;
+}
+
+.wrapper_card .box_card {
+  padding: 40px;
+}
+
